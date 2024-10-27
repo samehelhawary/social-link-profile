@@ -27,8 +27,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [link](https://your-solution-url.com)
-- Live Site URL: [link](https://your-live-site-url.com)
+- Solution URL: [link](https://github.com/samehelhawary/social-link-profile)
+- Live Site URL: [link](https://leafy-banoffee-c27eae.netlify.app/)
 
 ## My process
 
